@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shiv Pratap Singh Waghel</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Zomato clone](https://github.com/shivPratap007/zomato)
 
 - 🌱 I’m currently learning **Next.js and TypeScript**
 
